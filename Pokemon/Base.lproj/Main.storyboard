@@ -44,7 +44,7 @@
                                 </constraints>
                                 <state key="normal" title="Button" image="pokeball"/>
                                 <connections>
-                                    <segue destination="dmQ-rL-XHD" kind="presentation" id="ve1-ZN-5il"/>
+                                    <segue destination="dmQ-rL-XHD" kind="presentation" identifier="pokedexSegue" id="ve1-ZN-5il"/>
                                 </connections>
                             </button>
                         </subviews>
